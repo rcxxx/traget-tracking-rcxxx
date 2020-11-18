@@ -1,2 +1,2 @@
-:octocat:
+
 # traget-tracking-rcxxx
